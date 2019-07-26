@@ -8,6 +8,10 @@ int main() {
     scanf("%d", &b);
 
 
+
+
+
+
     if (a > b) {
         if (b != 0) {
             printf("%d/%d=%d", a, b, a / b);
