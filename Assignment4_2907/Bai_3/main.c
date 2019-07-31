@@ -2,11 +2,11 @@
 
 int main() {
     int n;
-    printf("Nhap 1 so :\n");
+    printf("Nhap 1 so :");
     scanf("%d",&n);
 
     int x=0,a=n;
-    while(a>0) {
+    while(a!=0) {
         x = x * 10 + a % 10;
         a = a/10;
     }
