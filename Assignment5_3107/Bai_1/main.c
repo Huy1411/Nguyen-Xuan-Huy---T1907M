@@ -11,12 +11,12 @@ int main() {
     if (n == 1 || n == 2) {
         printf("F(%d) = 1");
     }
-    int Fn_1 = 1, Fn_2 = 1;
+    int Fn1 = 1, Fn2 = 1 , Fi;
     for (int i = 3; i <= n; ++i) {
-        int Fi = Fn_1+ Fn_2;
-        Fn_1 = Fn_2;
-        Fn_2 = Fi;
+        Fi = Fn1+ Fn2;
+        Fn1 = Fn2;
+        Fn2 = Fi;
     }
-    printf("Fn = %d",Fn_2);
+    printf("Fn = %d",Fi);
     return 0;
 }

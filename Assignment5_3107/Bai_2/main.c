@@ -15,10 +15,11 @@ int main() {
             a = a / 10;
         }
         if (x == i) {
-            printf("x%d\t", i);
+            printf("%d la so thuan nghich \n", i);
         }
     }
     return 0;
 }
+
 
 
