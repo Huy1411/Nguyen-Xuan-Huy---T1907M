@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Assignent2_2407_Bai_2.dir/Assignment2_2407/Bai_2/main.c.o  -o Assignent2_2407_Bai_2 

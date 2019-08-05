@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Assignment3_2607.dir/Assignment3_2607/main.c.o  -o Assignment3_2607 

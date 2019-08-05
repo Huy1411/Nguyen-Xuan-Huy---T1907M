@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/LabSession3_2607.dir/LabSession3_2607/main.c.o  -o LabSession3_2607 

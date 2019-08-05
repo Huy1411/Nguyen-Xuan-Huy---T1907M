@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Assignment4_2907_Bai_3.dir/Assignment4_2907/Bai_3/main.c.o  -o Assignment4_2907_Bai_3 
