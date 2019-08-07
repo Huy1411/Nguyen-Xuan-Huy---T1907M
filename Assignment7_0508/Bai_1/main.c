@@ -16,19 +16,19 @@ int main() {
         printf("\n");
     }
 
-    int S1 = 0, tb1;
+    float S1 = 0, tb1;
     for (int i = 0; i < 4; ++i) {
         S1 += a[i][i];
     }
     tb1 = S1 / 4;
-    printf(" Tong gia tri duong cheo 1 la: %d\n", S1);
-    printf("Trung binh cong duong cheo 1 la: %d\n", tb1);
-    int S2 = 0, tb2;
+    printf(" Tong gia tri duong cheo 1 la: %f\n", S1);
+    printf("Trung binh cong duong cheo 1 la: %f\n", tb1);
+    float S2 = 0, tb2;
     for (int i = 0; i < 4; ++i) {
-        S2 += a[i][3 - i];
+        S2 += a[i][4 - i - 1];
     }
     tb2 = S2 / 4;
-    printf(" Tong gia tri duong cheo 2 la: %d\n", S2);
-    printf("Trung binh cong duong cheo 2 la %d\n", tb2);
+    printf(" Tong gia tri duong cheo 2 la: %f\n", S2);
+    printf("Trung binh cong duong cheo 2 la %f\n", tb2);
     return 0;
 }
