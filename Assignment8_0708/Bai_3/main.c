@@ -1,4 +1,4 @@
-//
+//Tim hang co tong gia tri lon nhat
 #include <stdio.h>
 
 void nhap_mang(int a[4][4]) {
