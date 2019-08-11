@@ -189,32 +189,6 @@ Ex_0208_Bai_3/fast:
 .PHONY : Ex_0208_Bai_3/fast
 
 #=============================================================================
-# Target rules for targets named Assignment5_3107_Bai_3
-
-# Build rule for target.
-Assignment5_3107_Bai_3: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Assignment5_3107_Bai_3
-.PHONY : Assignment5_3107_Bai_3
-
-# fast build rule for target.
-Assignment5_3107_Bai_3/fast:
-	$(MAKE) -f CMakeFiles/Assignment5_3107_Bai_3.dir/build.make CMakeFiles/Assignment5_3107_Bai_3.dir/build
-.PHONY : Assignment5_3107_Bai_3/fast
-
-#=============================================================================
-# Target rules for targets named Ex_0208_Bai_2
-
-# Build rule for target.
-Ex_0208_Bai_2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Ex_0208_Bai_2
-.PHONY : Ex_0208_Bai_2
-
-# fast build rule for target.
-Ex_0208_Bai_2/fast:
-	$(MAKE) -f CMakeFiles/Ex_0208_Bai_2.dir/build.make CMakeFiles/Ex_0208_Bai_2.dir/build
-.PHONY : Ex_0208_Bai_2/fast
-
-#=============================================================================
 # Target rules for targets named Ex_0208_Bai_1
 
 # Build rule for target.
@@ -226,6 +200,32 @@ Ex_0208_Bai_1: cmake_check_build_system
 Ex_0208_Bai_1/fast:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_1.dir/build.make CMakeFiles/Ex_0208_Bai_1.dir/build
 .PHONY : Ex_0208_Bai_1/fast
+
+#=============================================================================
+# Target rules for targets named LabSession4_2907
+
+# Build rule for target.
+LabSession4_2907: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 LabSession4_2907
+.PHONY : LabSession4_2907
+
+# fast build rule for target.
+LabSession4_2907/fast:
+	$(MAKE) -f CMakeFiles/LabSession4_2907.dir/build.make CMakeFiles/LabSession4_2907.dir/build
+.PHONY : LabSession4_2907/fast
+
+#=============================================================================
+# Target rules for targets named Assignment9_0908_Bai_2
+
+# Build rule for target.
+Assignment9_0908_Bai_2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Assignment9_0908_Bai_2
+.PHONY : Assignment9_0908_Bai_2
+
+# fast build rule for target.
+Assignment9_0908_Bai_2/fast:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_2.dir/build.make CMakeFiles/Assignment9_0908_Bai_2.dir/build
+.PHONY : Assignment9_0908_Bai_2/fast
 
 #=============================================================================
 # Target rules for targets named Assignment4_2907_Bai_1
@@ -332,6 +332,19 @@ Assignment7_0508_Bai_1/fast:
 .PHONY : Assignment7_0508_Bai_1/fast
 
 #=============================================================================
+# Target rules for targets named Assignment9_0908_Bai_1
+
+# Build rule for target.
+Assignment9_0908_Bai_1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Assignment9_0908_Bai_1
+.PHONY : Assignment9_0908_Bai_1
+
+# fast build rule for target.
+Assignment9_0908_Bai_1/fast:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_1.dir/build.make CMakeFiles/Assignment9_0908_Bai_1.dir/build
+.PHONY : Assignment9_0908_Bai_1/fast
+
+#=============================================================================
 # Target rules for targets named Assignment4_2907_Bai_3
 
 # Build rule for target.
@@ -423,17 +436,30 @@ Assignment4_2907_Bai_2/fast:
 .PHONY : Assignment4_2907_Bai_2/fast
 
 #=============================================================================
-# Target rules for targets named LabSession4_2907
+# Target rules for targets named Ex_0208_Bai_2
 
 # Build rule for target.
-LabSession4_2907: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 LabSession4_2907
-.PHONY : LabSession4_2907
+Ex_0208_Bai_2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Ex_0208_Bai_2
+.PHONY : Ex_0208_Bai_2
 
 # fast build rule for target.
-LabSession4_2907/fast:
-	$(MAKE) -f CMakeFiles/LabSession4_2907.dir/build.make CMakeFiles/LabSession4_2907.dir/build
-.PHONY : LabSession4_2907/fast
+Ex_0208_Bai_2/fast:
+	$(MAKE) -f CMakeFiles/Ex_0208_Bai_2.dir/build.make CMakeFiles/Ex_0208_Bai_2.dir/build
+.PHONY : Ex_0208_Bai_2/fast
+
+#=============================================================================
+# Target rules for targets named Assignment5_3107_Bai_3
+
+# Build rule for target.
+Assignment5_3107_Bai_3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 Assignment5_3107_Bai_3
+.PHONY : Assignment5_3107_Bai_3
+
+# fast build rule for target.
+Assignment5_3107_Bai_3/fast:
+	$(MAKE) -f CMakeFiles/Assignment5_3107_Bai_3.dir/build.make CMakeFiles/Assignment5_3107_Bai_3.dir/build
+.PHONY : Assignment5_3107_Bai_3/fast
 
 #=============================================================================
 # Target rules for targets named LabSession3_2607
@@ -999,6 +1025,60 @@ Assignment8_0708/Bai_4/main.c.s:
 	$(MAKE) -f CMakeFiles/Assignment8_0708_Bai_4.dir/build.make CMakeFiles/Assignment8_0708_Bai_4.dir/Assignment8_0708/Bai_4/main.c.s
 .PHONY : Assignment8_0708/Bai_4/main.c.s
 
+Assignment9_0908/Bai_1/main.o: Assignment9_0908/Bai_1/main.c.o
+
+.PHONY : Assignment9_0908/Bai_1/main.o
+
+# target to build an object file
+Assignment9_0908/Bai_1/main.c.o:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_1.dir/build.make CMakeFiles/Assignment9_0908_Bai_1.dir/Assignment9_0908/Bai_1/main.c.o
+.PHONY : Assignment9_0908/Bai_1/main.c.o
+
+Assignment9_0908/Bai_1/main.i: Assignment9_0908/Bai_1/main.c.i
+
+.PHONY : Assignment9_0908/Bai_1/main.i
+
+# target to preprocess a source file
+Assignment9_0908/Bai_1/main.c.i:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_1.dir/build.make CMakeFiles/Assignment9_0908_Bai_1.dir/Assignment9_0908/Bai_1/main.c.i
+.PHONY : Assignment9_0908/Bai_1/main.c.i
+
+Assignment9_0908/Bai_1/main.s: Assignment9_0908/Bai_1/main.c.s
+
+.PHONY : Assignment9_0908/Bai_1/main.s
+
+# target to generate assembly for a file
+Assignment9_0908/Bai_1/main.c.s:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_1.dir/build.make CMakeFiles/Assignment9_0908_Bai_1.dir/Assignment9_0908/Bai_1/main.c.s
+.PHONY : Assignment9_0908/Bai_1/main.c.s
+
+Assignment9_0908/Bai_2/main.o: Assignment9_0908/Bai_2/main.c.o
+
+.PHONY : Assignment9_0908/Bai_2/main.o
+
+# target to build an object file
+Assignment9_0908/Bai_2/main.c.o:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_2.dir/build.make CMakeFiles/Assignment9_0908_Bai_2.dir/Assignment9_0908/Bai_2/main.c.o
+.PHONY : Assignment9_0908/Bai_2/main.c.o
+
+Assignment9_0908/Bai_2/main.i: Assignment9_0908/Bai_2/main.c.i
+
+.PHONY : Assignment9_0908/Bai_2/main.i
+
+# target to preprocess a source file
+Assignment9_0908/Bai_2/main.c.i:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_2.dir/build.make CMakeFiles/Assignment9_0908_Bai_2.dir/Assignment9_0908/Bai_2/main.c.i
+.PHONY : Assignment9_0908/Bai_2/main.c.i
+
+Assignment9_0908/Bai_2/main.s: Assignment9_0908/Bai_2/main.c.s
+
+.PHONY : Assignment9_0908/Bai_2/main.s
+
+# target to generate assembly for a file
+Assignment9_0908/Bai_2/main.c.s:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_2.dir/build.make CMakeFiles/Assignment9_0908_Bai_2.dir/Assignment9_0908/Bai_2/main.c.s
+.PHONY : Assignment9_0908/Bai_2/main.c.s
+
 Ex_0208/Bai_1/main.o: Ex_0208/Bai_1/main.c.o
 
 .PHONY : Ex_0208/Bai_1/main.o
@@ -1363,9 +1443,9 @@ help:
 	@echo "... Ex_0208_Bai_5"
 	@echo "... Ex_0208_Bai_4"
 	@echo "... Ex_0208_Bai_3"
-	@echo "... Assignment5_3107_Bai_3"
-	@echo "... Ex_0208_Bai_2"
 	@echo "... Ex_0208_Bai_1"
+	@echo "... LabSession4_2907"
+	@echo "... Assignment9_0908_Bai_2"
 	@echo "... Assignment4_2907_Bai_1"
 	@echo "... Assignment8_0708_Bai_4"
 	@echo "... Assignment8_0708_Bai_2"
@@ -1374,6 +1454,7 @@ help:
 	@echo "... Assignment8_0708_Bai_1"
 	@echo "... Assignment6_0208_Bai_2"
 	@echo "... Assignment7_0508_Bai_1"
+	@echo "... Assignment9_0908_Bai_1"
 	@echo "... Assignment4_2907_Bai_3"
 	@echo "... Assignment6_0208_Bai_1"
 	@echo "... rebuild_cache"
@@ -1382,7 +1463,8 @@ help:
 	@echo "... Assignment5_3107_Bai_2"
 	@echo "... Assignment8_0708_Bai_3"
 	@echo "... Assignment4_2907_Bai_2"
-	@echo "... LabSession4_2907"
+	@echo "... Ex_0208_Bai_2"
+	@echo "... Assignment5_3107_Bai_3"
 	@echo "... LabSession3_2607"
 	@echo "... Assignent2_2407_Bai_2"
 	@echo "... Assignment3_2607"
@@ -1443,6 +1525,12 @@ help:
 	@echo "... Assignment8_0708/Bai_4/main.o"
 	@echo "... Assignment8_0708/Bai_4/main.i"
 	@echo "... Assignment8_0708/Bai_4/main.s"
+	@echo "... Assignment9_0908/Bai_1/main.o"
+	@echo "... Assignment9_0908/Bai_1/main.i"
+	@echo "... Assignment9_0908/Bai_1/main.s"
+	@echo "... Assignment9_0908/Bai_2/main.o"
+	@echo "... Assignment9_0908/Bai_2/main.i"
+	@echo "... Assignment9_0908/Bai_2/main.s"
 	@echo "... Ex_0208/Bai_1/main.o"
 	@echo "... Ex_0208/Bai_1/main.i"
 	@echo "... Ex_0208/Bai_1/main.s"

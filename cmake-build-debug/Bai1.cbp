@@ -267,86 +267,6 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="Assignment5_3107_Bai_3">
-				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Assignment5_3107_Bai_3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment5_3107_Bai_3"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Assignment5_3107_Bai_3/fast">
-				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Assignment5_3107_Bai_3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment5_3107_Bai_3/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Ex_0208_Bai_2">
-				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Ex_0208_Bai_2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex_0208_Bai_2"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Ex_0208_Bai_2/fast">
-				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Ex_0208_Bai_2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex_0208_Bai_2/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="Ex_0208_Bai_1">
 				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Ex_0208_Bai_1" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
@@ -382,6 +302,86 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex_0208_Bai_1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LabSession4_2907">
+				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/LabSession4_2907" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 LabSession4_2907"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LabSession4_2907/fast">
+				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/LabSession4_2907" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 LabSession4_2907/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment9_0908_Bai_2">
+				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Assignment9_0908_Bai_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment9_0908_Bai_2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment9_0908_Bai_2/fast">
+				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Assignment9_0908_Bai_2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment9_0908_Bai_2/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -707,6 +707,46 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Assignment9_0908_Bai_1">
+				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Assignment9_0908_Bai_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment9_0908_Bai_1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment9_0908_Bai_1/fast">
+				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Assignment9_0908_Bai_1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment9_0908_Bai_1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="Assignment4_2907_Bai_3">
 				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Assignment4_2907_Bai_3" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
@@ -997,8 +1037,8 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="LabSession4_2907">
-				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/LabSession4_2907" prefix_auto="0" extension_auto="0"/>
+			<Target title="Ex_0208_Bai_2">
+				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Ex_0208_Bai_2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -1011,14 +1051,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 LabSession4_2907"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex_0208_Bai_2"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="LabSession4_2907/fast">
-				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/LabSession4_2907" prefix_auto="0" extension_auto="0"/>
+			<Target title="Ex_0208_Bai_2/fast">
+				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Ex_0208_Bai_2" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -1031,7 +1071,47 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 LabSession4_2907/fast"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ex_0208_Bai_2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment5_3107_Bai_3">
+				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Assignment5_3107_Bai_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment5_3107_Bai_3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment5_3107_Bai_3/fast">
+				<Option output="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Assignment5_3107_Bai_3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment5_3107_Bai_3/fast"/>
 					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1331,6 +1411,12 @@
 		</Unit>
 		<Unit filename="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/Assignment8_0708/Bai_4/main.c">
 			<Option target="Assignment8_0708_Bai_4"/>
+		</Unit>
+		<Unit filename="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/Assignment9_0908/Bai_1/main.c">
+			<Option target="Assignment9_0908_Bai_1"/>
+		</Unit>
+		<Unit filename="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/Assignment9_0908/Bai_2/main.c">
+			<Option target="Assignment9_0908_Bai_2"/>
 		</Unit>
 		<Unit filename="/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/Ex_0208/Bai_1/main.c">
 			<Option target="Ex_0208_Bai_1"/>

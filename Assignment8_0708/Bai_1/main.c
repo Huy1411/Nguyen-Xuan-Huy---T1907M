@@ -29,6 +29,6 @@ int main() {
     int a[n];
     nhap_mang(a,n);
     in_mang(a,n);
-    printf("\nSo lon nhat trong mang %d:", tim_so_lon_nhat_trong_mang(a,n));
+    printf("\nSo lon nhat trong mang: %d", tim_so_lon_nhat_trong_mang(a,n));
     return 0;
 }

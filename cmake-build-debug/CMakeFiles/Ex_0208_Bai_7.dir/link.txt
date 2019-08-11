@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Ex_0208_Bai_7.dir/Ex_0208/Bai_7/main.c.o  -o Ex_0208_Bai_7 

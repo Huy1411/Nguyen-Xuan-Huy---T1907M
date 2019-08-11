@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/Assignment5_3107/Bai_1/main.c
+stdio.h
+-
+

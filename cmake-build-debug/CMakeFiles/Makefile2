@@ -71,7 +71,7 @@ CMAKE_BINARY_DIR = /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-d
 CMakeFiles/Ex_0208_Bai_11.dir/all:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_11.dir/build.make CMakeFiles/Ex_0208_Bai_11.dir/depend
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_11.dir/build.make CMakeFiles/Ex_0208_Bai_11.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target Ex_0208_Bai_11"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=45,46 "Built target Ex_0208_Bai_11"
 .PHONY : CMakeFiles/Ex_0208_Bai_11.dir/all
 
 # Include target in all.
@@ -108,7 +108,7 @@ clean: CMakeFiles/Ex_0208_Bai_11.dir/clean
 CMakeFiles/Ex_0208_Bai_9.dir/all:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_9.dir/build.make CMakeFiles/Ex_0208_Bai_9.dir/depend
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_9.dir/build.make CMakeFiles/Ex_0208_Bai_9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=57,58 "Built target Ex_0208_Bai_9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=61,62 "Built target Ex_0208_Bai_9"
 .PHONY : CMakeFiles/Ex_0208_Bai_9.dir/all
 
 # Include target in all.
@@ -145,7 +145,7 @@ clean: CMakeFiles/Ex_0208_Bai_9.dir/clean
 CMakeFiles/Ex_0208_Bai_6.dir/all:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_6.dir/build.make CMakeFiles/Ex_0208_Bai_6.dir/depend
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_6.dir/build.make CMakeFiles/Ex_0208_Bai_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=51,52 "Built target Ex_0208_Bai_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=55,56 "Built target Ex_0208_Bai_6"
 .PHONY : CMakeFiles/Ex_0208_Bai_6.dir/all
 
 # Include target in all.
@@ -182,7 +182,7 @@ clean: CMakeFiles/Ex_0208_Bai_6.dir/clean
 CMakeFiles/Ex_0208_Bai_5.dir/all:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_5.dir/build.make CMakeFiles/Ex_0208_Bai_5.dir/depend
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_5.dir/build.make CMakeFiles/Ex_0208_Bai_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target Ex_0208_Bai_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target Ex_0208_Bai_5"
 .PHONY : CMakeFiles/Ex_0208_Bai_5.dir/all
 
 # Include target in all.
@@ -219,7 +219,7 @@ clean: CMakeFiles/Ex_0208_Bai_5.dir/clean
 CMakeFiles/Ex_0208_Bai_4.dir/all:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_4.dir/build.make CMakeFiles/Ex_0208_Bai_4.dir/depend
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_4.dir/build.make CMakeFiles/Ex_0208_Bai_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target Ex_0208_Bai_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=51,52 "Built target Ex_0208_Bai_4"
 .PHONY : CMakeFiles/Ex_0208_Bai_4.dir/all
 
 # Include target in all.
@@ -256,7 +256,7 @@ clean: CMakeFiles/Ex_0208_Bai_4.dir/clean
 CMakeFiles/Ex_0208_Bai_3.dir/all:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_3.dir/build.make CMakeFiles/Ex_0208_Bai_3.dir/depend
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_3.dir/build.make CMakeFiles/Ex_0208_Bai_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=45,46 "Built target Ex_0208_Bai_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target Ex_0208_Bai_3"
 .PHONY : CMakeFiles/Ex_0208_Bai_3.dir/all
 
 # Include target in all.
@@ -287,87 +287,13 @@ clean: CMakeFiles/Ex_0208_Bai_3.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/Assignment5_3107_Bai_3.dir
-
-# All Build rule for target.
-CMakeFiles/Assignment5_3107_Bai_3.dir/all:
-	$(MAKE) -f CMakeFiles/Assignment5_3107_Bai_3.dir/build.make CMakeFiles/Assignment5_3107_Bai_3.dir/depend
-	$(MAKE) -f CMakeFiles/Assignment5_3107_Bai_3.dir/build.make CMakeFiles/Assignment5_3107_Bai_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target Assignment5_3107_Bai_3"
-.PHONY : CMakeFiles/Assignment5_3107_Bai_3.dir/all
-
-# Include target in all.
-all: CMakeFiles/Assignment5_3107_Bai_3.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/Assignment5_3107_Bai_3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Assignment5_3107_Bai_3.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/Assignment5_3107_Bai_3.dir/rule
-
-# Convenience name for target.
-Assignment5_3107_Bai_3: CMakeFiles/Assignment5_3107_Bai_3.dir/rule
-
-.PHONY : Assignment5_3107_Bai_3
-
-# clean rule for target.
-CMakeFiles/Assignment5_3107_Bai_3.dir/clean:
-	$(MAKE) -f CMakeFiles/Assignment5_3107_Bai_3.dir/build.make CMakeFiles/Assignment5_3107_Bai_3.dir/clean
-.PHONY : CMakeFiles/Assignment5_3107_Bai_3.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/Assignment5_3107_Bai_3.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
-# Target rules for target CMakeFiles/Ex_0208_Bai_2.dir
-
-# All Build rule for target.
-CMakeFiles/Ex_0208_Bai_2.dir/all:
-	$(MAKE) -f CMakeFiles/Ex_0208_Bai_2.dir/build.make CMakeFiles/Ex_0208_Bai_2.dir/depend
-	$(MAKE) -f CMakeFiles/Ex_0208_Bai_2.dir/build.make CMakeFiles/Ex_0208_Bai_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target Ex_0208_Bai_2"
-.PHONY : CMakeFiles/Ex_0208_Bai_2.dir/all
-
-# Include target in all.
-all: CMakeFiles/Ex_0208_Bai_2.dir/all
-
-.PHONY : all
-
-# Build rule for subdir invocation for target.
-CMakeFiles/Ex_0208_Bai_2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Ex_0208_Bai_2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/Ex_0208_Bai_2.dir/rule
-
-# Convenience name for target.
-Ex_0208_Bai_2: CMakeFiles/Ex_0208_Bai_2.dir/rule
-
-.PHONY : Ex_0208_Bai_2
-
-# clean rule for target.
-CMakeFiles/Ex_0208_Bai_2.dir/clean:
-	$(MAKE) -f CMakeFiles/Ex_0208_Bai_2.dir/build.make CMakeFiles/Ex_0208_Bai_2.dir/clean
-.PHONY : CMakeFiles/Ex_0208_Bai_2.dir/clean
-
-# clean rule for target.
-clean: CMakeFiles/Ex_0208_Bai_2.dir/clean
-
-.PHONY : clean
-
-#=============================================================================
 # Target rules for target CMakeFiles/Ex_0208_Bai_1.dir
 
 # All Build rule for target.
 CMakeFiles/Ex_0208_Bai_1.dir/all:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_1.dir/build.make CMakeFiles/Ex_0208_Bai_1.dir/depend
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_1.dir/build.make CMakeFiles/Ex_0208_Bai_1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target Ex_0208_Bai_1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=41,42 "Built target Ex_0208_Bai_1"
 .PHONY : CMakeFiles/Ex_0208_Bai_1.dir/all
 
 # Include target in all.
@@ -394,6 +320,80 @@ CMakeFiles/Ex_0208_Bai_1.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/Ex_0208_Bai_1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/LabSession4_2907.dir
+
+# All Build rule for target.
+CMakeFiles/LabSession4_2907.dir/all:
+	$(MAKE) -f CMakeFiles/LabSession4_2907.dir/build.make CMakeFiles/LabSession4_2907.dir/depend
+	$(MAKE) -f CMakeFiles/LabSession4_2907.dir/build.make CMakeFiles/LabSession4_2907.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=65,66 "Built target LabSession4_2907"
+.PHONY : CMakeFiles/LabSession4_2907.dir/all
+
+# Include target in all.
+all: CMakeFiles/LabSession4_2907.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/LabSession4_2907.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LabSession4_2907.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/LabSession4_2907.dir/rule
+
+# Convenience name for target.
+LabSession4_2907: CMakeFiles/LabSession4_2907.dir/rule
+
+.PHONY : LabSession4_2907
+
+# clean rule for target.
+CMakeFiles/LabSession4_2907.dir/clean:
+	$(MAKE) -f CMakeFiles/LabSession4_2907.dir/build.make CMakeFiles/LabSession4_2907.dir/clean
+.PHONY : CMakeFiles/LabSession4_2907.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/LabSession4_2907.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Assignment9_0908_Bai_2.dir
+
+# All Build rule for target.
+CMakeFiles/Assignment9_0908_Bai_2.dir/all:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_2.dir/build.make CMakeFiles/Assignment9_0908_Bai_2.dir/depend
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_2.dir/build.make CMakeFiles/Assignment9_0908_Bai_2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target Assignment9_0908_Bai_2"
+.PHONY : CMakeFiles/Assignment9_0908_Bai_2.dir/all
+
+# Include target in all.
+all: CMakeFiles/Assignment9_0908_Bai_2.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Assignment9_0908_Bai_2.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Assignment9_0908_Bai_2.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Assignment9_0908_Bai_2.dir/rule
+
+# Convenience name for target.
+Assignment9_0908_Bai_2: CMakeFiles/Assignment9_0908_Bai_2.dir/rule
+
+.PHONY : Assignment9_0908_Bai_2
+
+# clean rule for target.
+CMakeFiles/Assignment9_0908_Bai_2.dir/clean:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_2.dir/build.make CMakeFiles/Assignment9_0908_Bai_2.dir/clean
+.PHONY : CMakeFiles/Assignment9_0908_Bai_2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Assignment9_0908_Bai_2.dir/clean
 
 .PHONY : clean
 
@@ -694,6 +694,43 @@ clean: CMakeFiles/Assignment7_0508_Bai_1.dir/clean
 .PHONY : clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/Assignment9_0908_Bai_1.dir
+
+# All Build rule for target.
+CMakeFiles/Assignment9_0908_Bai_1.dir/all:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_1.dir/build.make CMakeFiles/Assignment9_0908_Bai_1.dir/depend
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_1.dir/build.make CMakeFiles/Assignment9_0908_Bai_1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target Assignment9_0908_Bai_1"
+.PHONY : CMakeFiles/Assignment9_0908_Bai_1.dir/all
+
+# Include target in all.
+all: CMakeFiles/Assignment9_0908_Bai_1.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Assignment9_0908_Bai_1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Assignment9_0908_Bai_1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Assignment9_0908_Bai_1.dir/rule
+
+# Convenience name for target.
+Assignment9_0908_Bai_1: CMakeFiles/Assignment9_0908_Bai_1.dir/rule
+
+.PHONY : Assignment9_0908_Bai_1
+
+# clean rule for target.
+CMakeFiles/Assignment9_0908_Bai_1.dir/clean:
+	$(MAKE) -f CMakeFiles/Assignment9_0908_Bai_1.dir/build.make CMakeFiles/Assignment9_0908_Bai_1.dir/clean
+.PHONY : CMakeFiles/Assignment9_0908_Bai_1.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Assignment9_0908_Bai_1.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/Assignment4_2907_Bai_3.dir
 
 # All Build rule for target.
@@ -774,7 +811,7 @@ clean: CMakeFiles/Assignment6_0208_Bai_1.dir/clean
 CMakeFiles/Ex_0208_Bai_10.dir/all:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_10.dir/build.make CMakeFiles/Ex_0208_Bai_10.dir/depend
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_10.dir/build.make CMakeFiles/Ex_0208_Bai_10.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target Ex_0208_Bai_10"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=43,44 "Built target Ex_0208_Bai_10"
 .PHONY : CMakeFiles/Ex_0208_Bai_10.dir/all
 
 # Include target in all.
@@ -811,7 +848,7 @@ clean: CMakeFiles/Ex_0208_Bai_10.dir/clean
 CMakeFiles/Ex_0208_Bai_8.dir/all:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_8.dir/build.make CMakeFiles/Ex_0208_Bai_8.dir/depend
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_8.dir/build.make CMakeFiles/Ex_0208_Bai_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=55,56 "Built target Ex_0208_Bai_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=59,60 "Built target Ex_0208_Bai_8"
 .PHONY : CMakeFiles/Ex_0208_Bai_8.dir/all
 
 # Include target in all.
@@ -953,39 +990,76 @@ clean: CMakeFiles/Assignment4_2907_Bai_2.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/LabSession4_2907.dir
+# Target rules for target CMakeFiles/Ex_0208_Bai_2.dir
 
 # All Build rule for target.
-CMakeFiles/LabSession4_2907.dir/all:
-	$(MAKE) -f CMakeFiles/LabSession4_2907.dir/build.make CMakeFiles/LabSession4_2907.dir/depend
-	$(MAKE) -f CMakeFiles/LabSession4_2907.dir/build.make CMakeFiles/LabSession4_2907.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=61,62 "Built target LabSession4_2907"
-.PHONY : CMakeFiles/LabSession4_2907.dir/all
+CMakeFiles/Ex_0208_Bai_2.dir/all:
+	$(MAKE) -f CMakeFiles/Ex_0208_Bai_2.dir/build.make CMakeFiles/Ex_0208_Bai_2.dir/depend
+	$(MAKE) -f CMakeFiles/Ex_0208_Bai_2.dir/build.make CMakeFiles/Ex_0208_Bai_2.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target Ex_0208_Bai_2"
+.PHONY : CMakeFiles/Ex_0208_Bai_2.dir/all
 
 # Include target in all.
-all: CMakeFiles/LabSession4_2907.dir/all
+all: CMakeFiles/Ex_0208_Bai_2.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/LabSession4_2907.dir/rule: cmake_check_build_system
+CMakeFiles/Ex_0208_Bai_2.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 2
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/LabSession4_2907.dir/all
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Ex_0208_Bai_2.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/LabSession4_2907.dir/rule
+.PHONY : CMakeFiles/Ex_0208_Bai_2.dir/rule
 
 # Convenience name for target.
-LabSession4_2907: CMakeFiles/LabSession4_2907.dir/rule
+Ex_0208_Bai_2: CMakeFiles/Ex_0208_Bai_2.dir/rule
 
-.PHONY : LabSession4_2907
-
-# clean rule for target.
-CMakeFiles/LabSession4_2907.dir/clean:
-	$(MAKE) -f CMakeFiles/LabSession4_2907.dir/build.make CMakeFiles/LabSession4_2907.dir/clean
-.PHONY : CMakeFiles/LabSession4_2907.dir/clean
+.PHONY : Ex_0208_Bai_2
 
 # clean rule for target.
-clean: CMakeFiles/LabSession4_2907.dir/clean
+CMakeFiles/Ex_0208_Bai_2.dir/clean:
+	$(MAKE) -f CMakeFiles/Ex_0208_Bai_2.dir/build.make CMakeFiles/Ex_0208_Bai_2.dir/clean
+.PHONY : CMakeFiles/Ex_0208_Bai_2.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Ex_0208_Bai_2.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/Assignment5_3107_Bai_3.dir
+
+# All Build rule for target.
+CMakeFiles/Assignment5_3107_Bai_3.dir/all:
+	$(MAKE) -f CMakeFiles/Assignment5_3107_Bai_3.dir/build.make CMakeFiles/Assignment5_3107_Bai_3.dir/depend
+	$(MAKE) -f CMakeFiles/Assignment5_3107_Bai_3.dir/build.make CMakeFiles/Assignment5_3107_Bai_3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target Assignment5_3107_Bai_3"
+.PHONY : CMakeFiles/Assignment5_3107_Bai_3.dir/all
+
+# Include target in all.
+all: CMakeFiles/Assignment5_3107_Bai_3.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/Assignment5_3107_Bai_3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Assignment5_3107_Bai_3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/Assignment5_3107_Bai_3.dir/rule
+
+# Convenience name for target.
+Assignment5_3107_Bai_3: CMakeFiles/Assignment5_3107_Bai_3.dir/rule
+
+.PHONY : Assignment5_3107_Bai_3
+
+# clean rule for target.
+CMakeFiles/Assignment5_3107_Bai_3.dir/clean:
+	$(MAKE) -f CMakeFiles/Assignment5_3107_Bai_3.dir/build.make CMakeFiles/Assignment5_3107_Bai_3.dir/clean
+.PHONY : CMakeFiles/Assignment5_3107_Bai_3.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/Assignment5_3107_Bai_3.dir/clean
 
 .PHONY : clean
 
@@ -996,7 +1070,7 @@ clean: CMakeFiles/LabSession4_2907.dir/clean
 CMakeFiles/LabSession3_2607.dir/all:
 	$(MAKE) -f CMakeFiles/LabSession3_2607.dir/build.make CMakeFiles/LabSession3_2607.dir/depend
 	$(MAKE) -f CMakeFiles/LabSession3_2607.dir/build.make CMakeFiles/LabSession3_2607.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=59,60 "Built target LabSession3_2607"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=63,64 "Built target LabSession3_2607"
 .PHONY : CMakeFiles/LabSession3_2607.dir/all
 
 # Include target in all.
@@ -1144,7 +1218,7 @@ clean: CMakeFiles/Assignment7_0508_Bai_2.dir/clean
 CMakeFiles/Ex_0208_Bai_7.dir/all:
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_7.dir/build.make CMakeFiles/Ex_0208_Bai_7.dir/depend
 	$(MAKE) -f CMakeFiles/Ex_0208_Bai_7.dir/build.make CMakeFiles/Ex_0208_Bai_7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target Ex_0208_Bai_7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/HuyLo/Documents/Nguyen-Xuan-Huy---T1907M/cmake-build-debug/CMakeFiles --progress-num=57,58 "Built target Ex_0208_Bai_7"
 .PHONY : CMakeFiles/Ex_0208_Bai_7.dir/all
 
 # Include target in all.
